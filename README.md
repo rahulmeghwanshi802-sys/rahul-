@@ -1,2 +1,3 @@
-# rahul-
-this is my frish github
+# Rahul-
+This is my frish github
+Author - Rahul Meghwanshi
